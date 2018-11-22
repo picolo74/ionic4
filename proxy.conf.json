@@ -1,0 +1,8 @@
+{
+    "/api": {
+       "target": "http://pointage-api.lecube-master.svc.kube.isi:8080",
+       "changeOrigin": true,
+       "secure": false,
+       "logLevel": "debug"
+     }
+   }
